@@ -1,0 +1,26 @@
+ * {
+    background-color: #1d38ff;
+ }
+ 
+ img {
+    border : solid;
+    border-radius: 20px;
+    color : #a87203
+}
+
+ .Origamis {
+     display : flex;
+     flex-wrap : wrap;
+     padding : 30px;
+     margin: 30px
+ }
+
+ .Colorigami {
+    display : flex;
+    flex-wrap : wrap;
+    padding : 40px;
+    margin : 30px
+
+}
+ 
+ 
